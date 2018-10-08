@@ -5,7 +5,8 @@ https://www.tandfonline.com/doi/abs/10.1080/17452759.2018.1442681
 
 ## Introduction
 ### Objective
-This is a small program used to automatically convert G-code to 2D CAD drawings, useful when you want to see the filament structure of a 3D printed model. The generated 2D drawings can be further extruded to 3D solid model in either AutoCAD or SolidWorks, and subject to further finite element analysis (FEA) in ANSYS
+This is a small program used to automatically convert G-code to 2D CAD drawings, useful when you want to see the filament structure of a 3D printed model. The generated 2D drawings can be further extruded to 3D solid model in either AutoCAD or SolidWorks, and subject to further finite element analysis (FEA) in ANSYS, see below figure for example.
+![alt text](https://github.com/zhouxf53/Gcode-to-Autocad/blob/master/Illu.png)
 
 ### Theoretical background
 G-code in a desktop level 3D printing machine gives information of the X-Y-Z position of the nozzle at different time steps. This program extracts those nozzle locations at the same layer and convert them to consecutively lines to form a 2D CAD model. 
