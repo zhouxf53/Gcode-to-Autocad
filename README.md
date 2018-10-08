@@ -21,5 +21,5 @@ The code was written in MATLAB. Before you run it, double check the filename to 
 If this method is useful for your research, please cite our paper.
 
 ### Known bugs
-Sometimes this program would generate lines when the nozzle should travel without extrusion material, you may want to manually remove these lines. An update is coming soon<sup>Bllizzard TM</sup>
+Sometimes this program would generate lines when the nozzle should travel without extrusion material, you may want to manually remove these lines. An update is coming soon<sup>Bllizzard TM</sup>.
 
